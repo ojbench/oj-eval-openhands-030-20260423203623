@@ -5,7 +5,7 @@
 #include <cmath>
 #include <limits>
 
-typedef std::vector<std::vector<double>> IMAGE_T;
+// IMAGE_T is already defined in the OJ environment
 
 static double templates[10][28][28] = {
     {
